@@ -1,0 +1,24 @@
+{
+  "name": "clearcode/cc-img-shortcode",
+  "type": "wordpress-plugin",
+  "license": "GPL-3.0+",
+  "description": "WordPress Plugin.",
+  "homepage": "https://clearcode.cc",
+  "authors": [
+    {
+      "name": "Clearcode",
+      "homepage": "https://bitbucket.org/ClearcodeHQ"
+    },
+    {
+      "name": "Piotr Niewiadomski",
+      "homepage": "https://bitbucket.org/PiotrPress"
+    }
+  ],
+  "keywords": [
+    "wordpress", "wp", "plugin", "blog", "cms", "composer"
+  ],
+  "require": {
+    "php": ">=7.2",
+    "composer/installers": "*"
+  }
+}

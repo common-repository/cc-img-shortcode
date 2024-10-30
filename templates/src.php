@@ -1,0 +1,1 @@
+<?php if ( ! defined( 'ABSPATH' ) ) exit; ?><?php if ( ! empty( $src ) ) : ?><?= ! empty ( $ver ) ? add_query_arg( 'ver', $ver, $src ) : $src; ?><?php endif; ?>
